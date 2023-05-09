@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Product>
+    <div class="men">
+        <div class="container">
+            <div class="col-md-3 sidebar">
+                <div class="block block-layered-nav">
+                    <div class="block-title">
+                        <strong><span>Shop By</span></strong>
+                    </div>
+                    <div class="block-content">
+
+                        @await Component.InvokeAsync("CategoryList")
+
+                    </div>
+                </div>
+                <div class="block block-cart">
+                    <div class="block-title">
+                        <strong><span>Carrello</span></strong>
+                    </div>
+                    <div class="block-content">
+                        <p class="empty">You have no items in your shopping cart.</p>
+                    </div>
+                </div>
+                <div class="block block-list block-compare">
+                    <div class="block-title">
+                        <strong><span>Compare Products                    </span></strong>
+                    </div>
+                    <div class="block-content">
+                        <p class="empty">You have no items to compare.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="mens-toolbar">
+                    <div class="sort">
+                        <div class="sort-by">
+                            <label>Sort By</label>
+                            <select>
+                                <option value="">
+                                    Popularity
+                                </option>
+                                <option value="">
+                                    Price : High to Low
+                                </option>
+                                <option value="">
+                                    Price : Low to High
+                                </option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="pager">
+                        <div class="limiter visible-desktop">
+                            <label>Show</label>
+                            <select>
+                                <option value="" selected="selected">
+                                    9
+                                </option>
+                                <option value="">
+                                    15
+                                </option>
+                                <option value="">
+                                    30
+                                </option>
+                            </select> per page
+                        </div>
+                        <ul class="dc_pagination dc_paginationA dc_paginationA06">
+                            <li><a href="#" class="previous">Pages</a></li>
+                            <li><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+             
+                <div class="span_3">
+                    @foreach (var temp in Model)
+                    {
+                    <div class="col_1_of_single1 span_1_of_single1">
+                        <a href="single.html">
+                            <img src="@temp.PhotoPath" height="200" width="200" alt="" />
+                            <h3>@temp.ProductName</h3>
+                            <p>@temp.ProductDes</p>
+                            <h4>Rs.@temp.Price</h4>
+                        </a>
+                        <a class="btn btn-success" asp-action="AddToCart" asp-controller="Cart" asp-route-id="@temp.ProductID">Add To Cart </a>
+                    </div>
+                    }
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>

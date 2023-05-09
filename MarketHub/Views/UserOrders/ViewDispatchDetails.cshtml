@@ -1,0 +1,32 @@
+﻿@model IEnumerable<UserOrderdDispatch>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2> @ViewBag.Message </h2> 
+            
+            @if(Model!=null)
+            { 
+            <h2> Order Dispatch Details</h2>
+              <table>
+                  <tr>
+                      <td>Order ID</td>
+                      <td>Disaptch Date </td>
+                      <td>Agency Name</td>
+                      <td>Expected Reach Date</td>
+                  </tr>
+                  @foreach (var temp in Model)
+                  {
+              <tr>
+                  <td>@temp.UserOrderID</td>
+                  <td>@temp.DispatchDate</td>
+                  <td>@temp.DispatchAgency.DispatchAgencyName</td>
+                  <td>@temp.ExprectedReachDate</td>
+              </tr>
+                  }
+              </table>
+            }
+            
+        </div>
+    </div>
+
+</div>

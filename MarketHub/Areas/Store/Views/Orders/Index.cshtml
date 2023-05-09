@@ -1,0 +1,43 @@
+﻿@model IEnumerable<UserOrder>
+
+<h2> User Order List </h2>
+
+<table class="table table-bordered">
+    <tr>
+        <td> Order ID</td>
+        <td> Order Date</td>
+        <td> User Name</td>
+        <td> Is Paid</td>
+    </tr>
+    @foreach (var temp in Model)
+    {
+        @if (temp.IsPaid)
+        {
+<tr class="alert-success">
+    
+    <td>@temp.UserOrderID</td>
+    <td>@temp.OrderDateTime</td>
+    <td>@temp.User.FirstName</td>
+    <td>@temp.IsPaid</td>
+    <td>
+        <a asp-action="DispatchOrder" class="btn btn-success" asp-route-id="@temp.UserOrderID">Dispatch Order</a>
+       
+    </td>
+</tr>
+        }
+        else
+        { 
+<tr class="alert-danger">
+
+    <td>@temp.UserOrderID</td>
+    <td>@temp.OrderDateTime</td>
+    <td>@temp.User.FirstName</td>
+    <td>@temp.IsPaid</td>
+    <td>
+        <a asp-action="Edit" class="btn btn-success" asp-route-id="@temp.UserID">Dispatch Order</a>
+
+    </td>
+</tr>
+        }
+        }
+</table>

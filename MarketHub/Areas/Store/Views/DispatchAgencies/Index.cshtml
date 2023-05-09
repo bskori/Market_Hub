@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DispatchAgency>
+
+<h2> Dispatch Agency List </h2>
+<a asp-action="Create" class="btn btn-success"> Create New</a>
+<table class="table table-bordered"> 
+    <tr>
+        <td>Dispatch Agency ID</td>
+        <td>Dispatch Agency Name</td>
+        <td>Address</td>
+        <td>Email ID</td>
+        <td>Mobile No</td>
+        <td>Contact Person Name</td>
+    </tr>
+    @foreach (var temp in Model)
+    { 
+<tr>
+    <td>@temp.DispatchAgencyID</td>
+    <td>@temp.DispatchAgencyName</td>
+    <td>@temp.Address</td>
+    <td>@temp.EmailID</td>
+    <td>@temp.MobileNo</td>
+    <td>@temp.ContactPersonName</td>
+    <td>
+        <a asp-action="Edit" class="btn btn-success" asp-route-id="@temp.DispatchAgencyID">Edit</a>
+        <a asp-action="Delete" class="btn btn-success" asp-route-id="@temp.DispatchAgencyID">Delete</a>
+    </td>
+</tr>
+    }
+</table>

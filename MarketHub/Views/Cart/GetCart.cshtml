@@ -1,0 +1,47 @@
+﻿@using Microsoft.AspNetCore.Http; 
+@model IEnumerable<Cart>
+
+<div class="col-md-10">
+     <h2> Cart For :=> @Context.Session.GetString("UserName") </h2>
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <td> Sr. No </td>
+            <td> Product Name </td>
+            <td> Qty </td>
+            <td> Price </td>
+            <td> Amount </td>
+        </tr>
+        @{int srno = 1; decimal? amount, totalamount=0; }
+        @foreach (var temp in Model)
+        {
+            amount = temp.Qty * temp.Price;
+            totalamount += amount;
+        <tr>
+        <td>@srno</td>
+        <td>@temp.Product.ProductName</td>
+        <td>@temp.Qty</td>
+        <td>@temp.Price</td>
+        <td>
+           @amount
+        </td>
+        <td>@Html.ActionLink("Delete","DeleteCart","Cart",new {id=temp.CartID},new {@class="btn btn-danger"})</td>
+        </tr>
+            srno++;
+        }
+        <tr>
+            <td colspan="5" class="alert-danger text-right">Total:=>@totalamount</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="5" class="alert-danger text-right">
+                <form asp-action="MakePayment" asp-controller="Cart">
+                    Select Payment Mode: 
+                    <select name="PaymentMode" asp-items="@ViewBag.PaymentMode"></select>
+                    <input type="submit" class="btn btn-danger" value="Make Payment" />
+                </form>
+            </td>
+        </tr>
+        </table>
+</div>
+

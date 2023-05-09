@@ -1,0 +1,62 @@
+﻿@model UserOrder
+<div class="container">
+      <div class="row">
+           <div class="col-md-12">
+               <table class="table table-bordered">
+                   <tr>
+                       <td> Order ID </td>
+                       <td>@Model.UserOrderID</td>
+                   </tr>
+                   <tr>
+                       <td> First Name </td>
+                       <td>@Model.User.FirstName</td>
+                   </tr>
+                   <tr>
+                       <td> Order Date </td>
+                       <td>@Model.OrderDateTime</td>
+                   </tr>
+                   <tr>
+                       <td> Is Paid </td>
+                       <td>@Model.IsPaid</td>
+                   </tr>
+               </table>
+                <h2> Order Details </h2>
+                <table class="table table-bordered">
+                    <tr>
+                        <td> Sr. No </td>
+                        <td> Product Name </td>
+                        <td> Photo</td>
+                        <td> Qty </td>
+                        <td> Price </td>
+                        <td> Amount </td>
+                    </tr>
+                    @{int srno = 1; decimal? amount, totalamount = 0; }
+                    @foreach (var temp in Model.UserOrderDets)
+                    {
+                        amount = temp.Qty * temp.Price;
+                        totalamount += amount;
+                        <tr>
+                            <td>@srno</td>
+                            <td>@temp.Product.ProductName</td>
+                            <td><img src="@temp.Product.PhotoPath" width="50" height="50" /></td>
+                            <td>@temp.Qty</td>
+                            <td>@temp.Price</td>
+                            <td>
+                                @amount
+                            </td>
+                        </tr>
+                        srno++;
+                    }
+                    <tr>
+                        <td colspan="5" class="alert-danger text-right">Total:=>@totalamount</td>
+                        <td></td>
+                    </tr>
+                </table>
+               <br />
+               @Html.ActionLink("Dispatch Order", "ExecuteDispatchOrder", "Orders", new {id=@Model.UserOrderID},new {@class="btn btn-success"})
+               &nbsp; &nbsp;
+               @Html.ActionLink("Back","Index","Orders", null, new { @class = "btn btn-success" }) 
+
+           </div>
+      </div>
+</div>

@@ -1,0 +1,43 @@
+﻿@model StoreApp.Models.UserOrderdDispatch
+
+
+
+    <h4>User Orderd Dispatch</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <h2> Order ID :@ViewBag.OrderID  for User : @ViewBag.Name</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ExecuteDispatchOrder">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="UserOrderID" value="@ViewBag.OrderID" />
+                <div class="form-group">
+                    <label asp-for="DispatchAgencyID" class="control-label"></label>
+                    <select asp-for="DispatchAgencyID" class="form-control" asp-items="ViewBag.DispatchAgencyID"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DocketNo" class="control-label"></label>
+                    <input asp-for="DocketNo" class="form-control" />
+                    <span asp-validation-for="DocketNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ExprectedReachDate" class="control-label"></label>
+                    <input asp-for="ExprectedReachDate" class="form-control" />
+                    <span asp-validation-for="ExprectedReachDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+

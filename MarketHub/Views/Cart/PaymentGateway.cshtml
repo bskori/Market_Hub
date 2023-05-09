@@ -1,0 +1,30 @@
+﻿@model PaymentGatewayVM
+  <div class="container">
+      <div class="col-md-10 offset-1">
+          <h2>Enter Card Details </h2>
+          <form asp-action="PaymentGateWay" method="post">
+              <table class="table table-bordered">
+                  <tr>
+                      <td style="background-color:gray;"> Card Details </td>
+                  </tr>
+                  <tr>
+                      <td> Enter Card No </td>
+                      <td> <input asp-for="CardNo" />  </td>
+                  </tr>
+                  <tr>
+                      <td> Enter CCV </td>
+                      <td> <input asp-for="CCV" />  </td>
+                  </tr>
+                  <tr>
+                      <td> Enter Expiry </td>
+                      <td> <input asp-for="ExpiryDate" />  </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          <input type="submit" value="Save" class="btn btn-success" />
+                      </td>
+                  </tr>
+              </table>
+          </form>
+      </div>
+  </div>

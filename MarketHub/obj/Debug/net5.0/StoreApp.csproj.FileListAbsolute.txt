@@ -1,0 +1,360 @@
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\appsettings.json
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.exe
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.deps.json
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.json
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.dev.json
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ref\StoreApp.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Castle.Core.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Humanizer.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfoInputs.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfo.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\staticwebassets\StoreApp.StaticWebAssets.Manifest.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\staticwebassets\StoreApp.StaticWebAssets.xml
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\scopedcss\bundle\StoreApp.styles.css
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorTargetAssemblyInfo.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CopyComplete
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\ref\StoreApp.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.genruntimeconfig.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.Views.dll
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.Views.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorAssemblyInfo.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorAssemblyInfo.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.TagHelpers.input.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.TagHelpers.output.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorCoreGenerate.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorTargetAssemblyInfo.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.Views.pdb
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageStores\SignIn.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\StoreHome\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Shared\_StoreLayout.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\_ViewImports.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\_ViewStart.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Create.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Edit.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Create.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Edit.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Create.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Edit.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Create.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Edit.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.AssemblyReference.cache
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\StoreHome\ChangePassword.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\default.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Home\GetProducts.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageUsers\SignIn.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageUsers\SignUp.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\CartCount\Default.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\GetCart.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\PaymentGateway.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\PlaceOrder.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\DispatchOrder.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\ExecuteDispatchOrder.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\UserOrders\Index.cshtml.g.cs
+C:\Class Demos\4.30to5.30 2021\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\UserOrders\ViewDispatchDetails.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\appsettings.json
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.exe
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.deps.json
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.json
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.dev.json
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ref\StoreApp.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.Views.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.Views.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Castle.Core.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Humanizer.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.AssemblyReference.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfoInputs.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfo.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CoreCompileInputs.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorAssemblyInfo.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorAssemblyInfo.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\staticwebassets\StoreApp.StaticWebAssets.Manifest.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\staticwebassets\StoreApp.StaticWebAssets.xml
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\scopedcss\bundle\StoreApp.styles.css
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.TagHelpers.input.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.TagHelpers.output.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorCoreGenerate.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Create.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Edit.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Categories\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Create.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Edit.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\DispatchAgencies\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Create.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Edit.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\MainCategories\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\DispatchOrder.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\ExecuteDispatchOrder.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Orders\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Create.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Edit.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Products\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\Shared\_StoreLayout.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\StoreHome\ChangePassword.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\StoreHome\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\_ViewImports.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Areas\Store\Views\_ViewStart.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\GetCart.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\PaymentGateway.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Cart\PlaceOrder.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Home\GetProducts.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageStores\SignIn.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageUsers\SignIn.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\ManageUsers\SignUp.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\CartCount\Default.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\default.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\UserOrders\Index.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\UserOrders\ViewDispatchDetails.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorTargetAssemblyInfo.cache
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.RazorTargetAssemblyInfo.cs
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.Views.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CopyComplete
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\ref\StoreApp.dll
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.pdb
+D:\Ri-Tech Projects\StoreApp\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.genruntimeconfig.cache

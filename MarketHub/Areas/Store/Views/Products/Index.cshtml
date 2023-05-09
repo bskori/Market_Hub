@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Product>
+
+<h2> Product List </h2>
+<a asp-action="Create" class="btn btn-success"> Create New</a>
+<table class="table table-bordered"> 
+    <tr>
+        <td>Product ID</td>
+        <td>Product Name</td>
+        <td>Product Desc</td>
+        <td>Mfg Name</td>
+        <td>Price</td>
+        <td>Category Name</td>
+        <td> Product Photo </td>
+    </tr>
+    @foreach (var temp in Model)
+    { 
+<tr>
+    <td>@temp.ProductID</td>
+    <td>@temp.ProductName</td>
+    <td>@temp.ProductDes</td>
+    <td>@temp.MfgName</td>
+    <td>@temp.Price</td>
+    <td>@temp.Category.CategoryName</td>
+    <td><img src="@temp.PhotoPath" width="100" height="100" /></td>
+    <td>
+        <a asp-action="Edit" class="btn btn-success" asp-route-id="@temp.ProductID">Edit</a>
+        <a asp-action="Delete" class="btn btn-success" asp-route-id="@temp.ProductID">Delete</a>
+    </td>
+</tr>
+    }
+</table>

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Category>
+
+<h2>  Category List </h2>
+<a asp-action="Create" class="btn btn-success"> Create New</a>
+<table class="table table-bordered"> 
+     <tr>
+         <td> Category ID</td>
+         <td> Category Name</td>
+     </tr>
+    @foreach (var temp in Model)
+    { 
+      <tr>
+          <td>@temp.CategoryID</td>
+          <td>@temp.CategoryName</td>
+          <td>@temp.MainCategory.MainCategoryName</td>
+          <td>
+              <a asp-action="Edit" class="btn btn-success" asp-route-id="@temp.CategoryID">Edit</a>
+              <a asp-action="Delete" class="btn btn-success" asp-route-id="@temp.CategoryID">Delete</a>
+          </td>
+      </tr>
+    }
+</table>
